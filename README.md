@@ -189,8 +189,6 @@ Including:
 
 ## Known Limitations
 
-- Some protocol details are still inferred
-- Presence detection frames are not fully understood
 - No native command acknowledgement exists
 - Continuous command transmission is required
 - Current code has only been tested on one hardware setup
@@ -199,12 +197,7 @@ Including:
 
 ## Planned Improvements
 
-- Cleaner firmware structure
-- Additional protocol captures
-- Better handling of reply frames
-- Native Home Assistant `fan` entity
 - Wiring diagram and schematic
-- More installation photos
 
 ---
 
